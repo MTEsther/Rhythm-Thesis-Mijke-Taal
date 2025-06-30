@@ -3,7 +3,7 @@
 This repository contains all the files to make this thesis rhythm game and all the data collected in the experiment. 
 
 ```text
-+-- Thesis1.0 kopie/
++-- Thesis Game/
 |   +-- Assets/
 |   |   +-- Animation/
 |   |   |   +-- Enemy1/
@@ -97,7 +97,7 @@ This repository contains all the files to make this thesis rhythm game and all t
 ```
 ## Game
 
-Note: The file structure of the game (Thesis1.0 kopie) lists only the main folders and files used in the game or personally created. Not all third-party assets or Unity-generated files are shown.
+Note: The file structure of the game (Thesis Game) lists only the main folders and files used in the game or personally created. Not all third-party assets or Unity-generated files are shown.
 
 ---
 ### Game Description
